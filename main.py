@@ -47,5 +47,5 @@ for i in range(1, days + 1):
     create_and_commit(filename, message, days - i + 1)
 
 print(
-  "\n\n----------------------------------------\n[+] use the following command to push")
+  "\n\n aladadev just having fun \n[+] contact with aladadev for awesome things")
 print("-> git push")
